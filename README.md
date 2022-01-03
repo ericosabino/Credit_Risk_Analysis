@@ -78,4 +78,4 @@ All the models had precisions of 0.99, but the resampling models had recall rate
 
 The Emsembling Learners Methods performed much better, with recall rates of 0.87 and 0.94, and Accuracy Scores of 0.65 and 0.93.
 
-The method that should be used to predict the credit risk, based on the source dataset is the Easy Ensemble Classifier, which clearly outperforms the otehr methodes with a much higher Accuracy Score.
+The method that should be used to predict the credit risk is, based on the source dataset, the Easy Ensemble Classifier, which clearly outperforms the other methods with a much higher Accuracy Score.
