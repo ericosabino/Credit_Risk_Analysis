@@ -30,14 +30,14 @@ Below the results of each the resampling and Ensembling method ()
 
 ### Oversampling
 #### Random Oversampling
-![](01.png)
+![](/Images/01.png)
 
 - Precision: 0.99
 - Recall: 0.62 
 - Balanced Accuracy Score: 0.640324421824783
 
 #### SMOTE 
-![](02.png)
+![](/Images/02.png)
 
 - Precision: 0.99
 - Recall: 0.69 
@@ -45,14 +45,14 @@ Below the results of each the resampling and Ensembling method ()
 
 
 #### Undersampling
-![](03.png)
+![](/Images/03.png)
 
 - Precision: 0.99
 - Recall: 0.40
 - Balanced Accuracy Score: 0.5442369453268994
 
 ### Combination (Over and Under) Sampling - SMOTEENN
-![](04.png)
+![](/Images/04.png)
 - Precision: 0.99
 - Recall: 0.57 
 - Balanced Accuracy Score: 0.6449163069955265
@@ -61,13 +61,13 @@ Below the results of each the resampling and Ensembling method ()
 ## Ensembling Learners
 
 ### Random Forest Classifier
-![](05.png)
+![](/Images/05.png)
 - Precision: 0.99
 - Recall: 0.87 
 - Balanced Accuracy Score: 0.6514992150524688
 
 ### Easy Ensemble Classifier
-![](06.png)
+![](/Images/06.png)
 - Precision: 0.99
 - Recall: 0.94 
 - Balanced Accuracy Score: 0.931601605553446
