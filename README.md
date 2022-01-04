@@ -58,19 +58,25 @@ Below the results of each the resampling and Ensembling method ()
 - Balanced Accuracy Score: 0.6449163069955265
 
 
-## Ensembling Learners
+### Ensembling Learners
 
-### Random Forest Classifier
+#### Random Forest Classifier
 ![](/Images/05.png)
 - Precision: 0.99
 - Recall: 0.87 
 - Balanced Accuracy Score: 0.6514992150524688
 
-### Easy Ensemble Classifier
+#### Easy Ensemble Classifier
 ![](/Images/06.png)
 - Precision: 0.99
 - Recall: 0.94 
 - Balanced Accuracy Score: 0.931601605553446
+
+### List of Features by Importance
+
+Below the list of features that most influenced this model for determining the credit risk is displayed:
+![](/Images/07.png)
+
 
 ## Summary
 
